@@ -1,0 +1,11 @@
+/* Background color for the body */
+body {
+    background-color: #fe865d; /* Light blue background */
+    font-family: Arial, sans-serif;
+}
+
+/* Text color and size for the content */
+h1, p {
+    color: #333; /* Dark gray text */
+    font-size: 1.5rem; /* Font size for both the heading and paragraph */
+}
